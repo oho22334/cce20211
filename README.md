@@ -1,6 +1,6 @@
 # cce20211
 ## 找零錢
-
+```C
 #include <stdio.h>
 int main ()
 {
@@ -13,10 +13,11 @@ int main ()
 	printf("%d=50*",n);
 	printf("%d+5*%d+1*%d\n",a,b,c);
 	}
+	```
   
 
 ## 因數個數
-
+```C
 #include <stdio.h>
 int main ()
 {
@@ -29,8 +30,9 @@ int main ()
 		printf("%d\n",sum);
 		
 }
+```
 ## 找倍數
-
+```C
 #include <stdio.h>
 int  main()
 {
@@ -43,8 +45,9 @@ int  main()
 		}
 		printf("%d\n",ans);
 }
+```
 ## 整數轉換為等級
-
+```C
 #include <stdio.h>
 int main ()
 {
@@ -58,8 +61,9 @@ int main ()
 	printf("C\n");
 	else printf("F\n");
 }
+```
 ## 分式化簡
-
+```C
 #include <stdio.h>
 int main ()
 {
@@ -71,3 +75,4 @@ int main ()
 }
 printf("%d %d\n",a/c,b/c);
 }
+```
