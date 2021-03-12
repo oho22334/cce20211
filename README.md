@@ -1,4 +1,5 @@
 # cce2021 0226
+
 ## 找零錢
 ```C
 #include <stdio.h>
@@ -13,9 +14,8 @@ int main ()
 	printf("%d=50*",n);
 	printf("%d+5*%d+1*%d\n",a,b,c);
 	}
-	```
-  
-
+```
+	
 ## 因數個數
 ```C
 #include <stdio.h>
